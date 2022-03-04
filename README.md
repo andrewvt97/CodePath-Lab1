@@ -9,7 +9,7 @@
 `TODO://` App that switches between flashcard app and an answer screen
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+
 
 <img src="https://media2.giphy.com/media/F09DXT7GtfxaQRbsrJ/giphy.gif?cid=790b7611a92887b10d95954b37465a6b5fcb04c191e883e6&rid=giphy.gif&ct=g" width=200><br>
 
